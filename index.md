@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 网页试做2.0
 
 You can use the [editor on GitHub](https://github.com/DJ666999/myh6/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
